@@ -11,7 +11,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://archive.org/download/esign-4.8.1-1679331792/ESign_4.8.1_1679331792.ipa</string>
+                            <string>https://archive.org/download/video-star-pro_20230328/Video%20StarPro.ipa</string>
                         </dict>
                         <dict>
                         <key>kind</key>
@@ -25,13 +25,13 @@
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>p3.xyz.yyyue.esign</string>
+                        <string>com.jgs.wo</string>
                         <key>bundle-version</key>
                         <string>1.0</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>dadwar hacker</string>
+                        <string>ڤیدیۆستار پرۆ</string>
                     </dict>
                 </dict>
             </array>
