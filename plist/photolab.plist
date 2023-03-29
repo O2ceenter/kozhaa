@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+        <dict>
+            <key>items</key>
+            <array>
+                <dict>
+                    <key>assets</key>
+                    <array>
+                        <dict>
+                            <key>kind</key>
+                            <string>software-package</string>
+                            <key>url</key>
+                            <string>https://archive.org/download/photo-lab-saadnaman.store-3.11.27-1680061578/Photo%20Lab%20saadnaman.store_3.11.27_1680061578.ipa</string>
+                        </dict>
+                        <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://archive.org/download/e-2-b-093-c-9-2560-4358-a-960-0-c-8474-cdf-8-a-0/E2B093C9-2560-4358-A960-0C8474CDF8A0.jpeg</string>
+                        </dict>
+                    </array>
+                    <key>metadata</key>
+                    <dict>
+                        <key>bundle-identifier</key>
+                        <string>com.photo</string>
+                        <key>bundle-version</key>
+                        <string>1.0</string>
+                        <key>kind</key>
+                        <string>software</string>
+                        <key>title</key>
+                        <string>photolab</string>
+                    </dict>
+                </dict>
+            </array>
+        </dict>
+    </plist>
