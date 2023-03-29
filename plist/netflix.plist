@@ -11,7 +11,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://archive.org/download/blower-5.0.2-1680062183/Blower_5.0.2_1680062183.ipa</string>
+                            <string>https://archive.org/download/netflix-saadnaman.store-1680061950/Netflix%20saadnaman.store__1680061950.ipa</string>
                         </dict>
                         <dict>
                         <key>kind</key>
@@ -25,13 +25,13 @@
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>net.qneo.Blower</string>
+                        <string>com.julioverne.netflixchecker</string>
                         <key>bundle-version</key>
                         <string>1.0</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>blower</string>
+                        <string>Netflix</string>
                     </dict>
                 </dict>
             </array>
