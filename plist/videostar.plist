@@ -1,5 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict><key>items</key><array><dict><key>assets</key><array><dict><key>kind</key><string>software-package</string><key>url</key><string>https://archive.org/download/monster-pubg-mobile-2.4.0-1675534699/Video%20Star_11.2.8_1675534784.ipa</string></dict><dict><key>kind</key><string>full-size-image</string><key>needs-shine</key><true/><key>url</key><string>https://archive.org/download/5-c-31805-f-9-b-37-46-cd-9303-0-db-8-b-7332-d-01/__ia_thumb.jpg</string></dict><dict><key>kind</key><string>display-image</string><key>needs-shine</key><true/><key>url</key><string>https://archive.org/download/5-c-31805-f-9-b-37-46-cd-9303-0-db-8-b-7332-d-01/__ia_thumb.jpg</string></dict></array><key>metadata</key><dict><key>bundle-identifier</key><string>com.frontierdesign.videostarpro</string><key>bundle-version</key><string>1</string><key>kind</key><string>software</string><key>subtitle</key><string>scores</string><key>title</key><string>video star
-
-iOS-HACK
-
-</string></dict></dict></array></dict></plist>
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+        <dict>
+            <key>items</key>
+            <array>
+                <dict>
+                    <key>assets</key>
+                    <array>
+                        <dict>
+                            <key>kind</key>
+                            <string>software-package</string>
+                            <key>url</key>
+                            <string>https://archive.org/download/video-star-pro-11.2.8-1680133286/Video%20StarPro_11.2.8_1680133286.ipa</string>
+                        </dict>
+                        <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://archive.org/download/e-2-b-093-c-9-2560-4358-a-960-0-c-8474-cdf-8-a-0/E2B093C9-2560-4358-A960-0C8474CDF8A0.jpeg</string>
+                        </dict>
+                    </array>
+                    <key>metadata</key>
+                    <dict>
+                        <key>bundle-identifier</key>
+                        <string>com.jgs.wo</string>
+                        <key>bundle-version</key>
+                        <string>1.0</string>
+                        <key>kind</key>
+                        <string>software</string>
+                        <key>title</key>
+                        <string>ڤیدیۆستار پرۆ</string>
+                    </dict>
+                </dict>
+            </array>
+        </dict>
+    </plist>
