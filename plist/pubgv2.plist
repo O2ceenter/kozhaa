@@ -25,13 +25,13 @@
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>com.appaspect.carcameradvrpro</string>
+                        <string>com.tencent.ig7</string>
                         <key>bundle-version</key>
                         <string>1.0</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>Car Camera PRO</string>
+                        <string>Pubg Mobile V2</string>
                     </dict>
                 </dict>
             </array>
