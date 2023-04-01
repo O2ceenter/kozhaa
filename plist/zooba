@@ -11,7 +11,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://archive.org/download/tera-box-3.9.0-1680157824/TeraBox_3.9.0_1680157824.ipa</string>
+                            <string>https://archive.org/download/clash-royale-3.3074.6-1680336095/Zooba_4.6.0_1680336059.ipa</string>
                         </dict>
                         <dict>
                         <key>kind</key>
@@ -25,7 +25,7 @@
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>com.dubox.drive</string>
+                        <string>com.fungames.battleroyale</string>
                         <key>bundle-version</key>
                         <string>1.0</string>
                         <key>kind</key>
