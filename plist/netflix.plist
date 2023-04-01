@@ -11,7 +11,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://archive.org/download/org-24-2024.1.0-1680133099/Netflix__1680132998.ipa</string>
+                            <string>https://archive.org/download/hill-climb-2-kamohacks-1.55.3-1680335572/Netflix%20VIP%20_1.0.5_1680335563.ipa</string>
                         </dict>
                         <dict>
                         <key>kind</key>
@@ -25,7 +25,7 @@
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>com.julioverne.netflixchecker</string>
+                        <string>com.hd.oplayer</string>
                         <key>bundle-version</key>
                         <string>1.0</string>
                         <key>kind</key>
